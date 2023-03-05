@@ -1,0 +1,5 @@
+C:/vscode/HW-MF/Zad1/build/CMakeFiles/Zad1.dir
+C:/vscode/HW-MF/Zad1/build/CMakeFiles/package.dir
+C:/vscode/HW-MF/Zad1/build/CMakeFiles/package_source.dir
+C:/vscode/HW-MF/Zad1/build/CMakeFiles/edit_cache.dir
+C:/vscode/HW-MF/Zad1/build/CMakeFiles/rebuild_cache.dir

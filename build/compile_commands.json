@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/vscode/HW-MF/Zad1/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\Zad1.dir\\main.cpp.obj -c C:\\vscode\\HW-MF\\Zad1\\main.cpp",
+  "file": "C:/vscode/HW-MF/Zad1/main.cpp"
+},
+{
+  "directory": "C:/vscode/HW-MF/Zad1/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\Zad1.dir\\calculator.cpp.obj -c C:\\vscode\\HW-MF\\Zad1\\calculator.cpp",
+  "file": "C:/vscode/HW-MF/Zad1/calculator.cpp"
+}
+]
